@@ -4,7 +4,7 @@
 
 **Automatic evaluation**: 🥉/ 🥉/ 🥇
 
-**After manual evaluation**: X/ X/ 🥈
+**After manual evaluation**: ～/ ～/ 🥈
 
 **Paper**: [Solution for Meta KDD Cup’ 25: A Comprehensive Three-Step Framework for Vision Question Answering](https://arxiv.org/pdf/2507.21520)
 
